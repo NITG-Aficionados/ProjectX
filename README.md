@@ -34,7 +34,7 @@ ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which 
 | TeamCaptainFreak | Shoeb Patel | Security, Algorithms, Web, DeepLearning | patelshoeb4@gmail.com | [Link](https://shoebpatel.me/) |
 | TeamAndyS | Anand Singh | DS, Algorithms, Web | anandsingh372@gmail.com |
 
-### Core Members:
+### Core Members (Captains):
 1. Shoeb Patel a.k.a. `CaptainFreak` (President)
 2. Anand Singh a.k.a. `Andys12` (VP)
 3. Varan Shukla a.k.a. `varanshukla` (GS)
