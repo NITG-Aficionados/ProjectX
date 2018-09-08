@@ -32,13 +32,13 @@ ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which 
 | `Team`| `Captain`| `Experiences/Interests`| `Contact` | `Profile` |
 |-|-|-|-|-|
 | TeamCaptainFreak | Shoeb Patel | Security, Algorithms, Web, DeepLearning | patelshoeb4@gmail.com | [Link](https://shoebpatel.me/) |
-| TeamAndyS | Anand Singh | DS, Algorithms, Web | anandsingh372@gmail.com |
-| CrusherS | Nishikant Singh | DS, Algorithms & ML | singhnishikant0@gmail.com |
+| TeamAndyS | Anand Singh | DataStructures, Algorithms, Web | anandsingh372@gmail.com |
+| CrusherS | Nishikant Singh | DataStructures, Algorithms & MachineLearning | singhnishikant0@gmail.com |
 
 ### Core Members (Captains):
 1. Shoeb Patel a.k.a. `CaptainFreak` (President)
-2. Anand Singh a.k.a. `Andys12` (VP)
-3. Varan Shukla a.k.a. `varanshukla` (GS)
+2. Anand Singh a.k.a. `Andys12` (Vice-president)
+3. Varan Shukla a.k.a. `varanshukla` (GeneralSecretary)
 4. Hrushikesh Hanbar a.k.a. `Wanderer`
 5. Nishikant Singh a.k.a `Crusher`
 6. Harshal Patel a.k.a. `emKiller`
