@@ -35,6 +35,7 @@ ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which 
 | TeamAndyS | Anand Singh | DataStructures, Algorithms, Web | anandsingh372@gmail.com |
 | CrusherS | Nishikant Singh | DataStructures, Algorithms & MachineLearning | singhnishikant0@gmail.com |
 | The_Team_Has_No_Name | Tejan Karmali | DataStructures, Algorithms & MachineLearning | tejank10@gmail.com |
+| CodePundits | Varan Shukla | Algorithms, Web, Blockchain, Cryptography | varanshukla@gmail.com |
 
 ### Core Members (Captains):
 1. Shoeb Patel a.k.a. `CaptainFreak` (President)
