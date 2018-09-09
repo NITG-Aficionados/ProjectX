@@ -36,6 +36,7 @@ ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which 
 | CrusherS | Nishikant Singh | DataStructures, Algorithms & MachineLearning | singhnishikant0@gmail.com |
 | The_Team_Has_No_Name | Tejan Karmali | DataStructures, Algorithms & MachineLearning | tejank10@gmail.com |
 | CodePundits | Varan Shukla | Algorithms, Web, Blockchain, Cryptography | varanshukla@gmail.com |
+| TeamSpectre | Dipendra Bhatt | Algorithms, Web Dev, DataStructures | dipenbhatt03@gmail.com |
 
 ### Core Members (Captains):
 1. Shoeb Patel a.k.a. `CaptainFreak` (President)
@@ -44,7 +45,7 @@ ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which 
 4. Hrushikesh Hanbar a.k.a. `Wanderer`
 5. Nishikant Singh a.k.a `Crusher`
 6. Harshal Patel a.k.a. `emKiller`
-7. Dipendra Bhatt a.k.a. `Papa`
+7. Dipendra Bhatt a.k.a. `Spectre`
 
 ----
 <p align="center">
