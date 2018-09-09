@@ -44,7 +44,7 @@ ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which 
 4. Hrushikesh Hanbar a.k.a. `Wanderer`
 5. Nishikant Singh a.k.a `Crusher`
 6. Harshal Patel a.k.a. `emKiller`
-7. Dipendra Bhatt a.k.a. `Papa`
+7. Dipendra Bhatt a.k.a. `Spectre`
 
 ----
 <p align="center">
