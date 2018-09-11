@@ -37,6 +37,7 @@
 | The_Team_Has_No_Name | Tejan Karmali | DataStructures, Algorithms & MachineLearning | tejank10@gmail.com |
 | CodePundits | Varan Shukla | Algorithms, Web, Blockchain, Cryptography | varanshukla@gmail.com |
 | TeamSpectre | Dipendra Bhatt | Algorithms, Web Dev, DataStructures | dipenbhatt03@gmail.com |
+| TheWanderers | Hrushikesh Hanbar | Algorithms, Web Dev, Blockchain, DeepLearning | hrushikeshrohit@gmail.com| [Link](http://hrushikesh-hanbar.me/) |
 
 ### Core Members (Captains):
 1. Shoeb Patel a.k.a. `CaptainFreak` (President)
