@@ -35,7 +35,7 @@
 | TeamCaptainFreak | Shoeb Patel | Security, Algorithms, Web, DeepLearning | patelshoeb4@gmail.com | [Link](https://shoebpatel.me/) |
 | TeamAndyS | Anand Singh | DataStructures, Algorithms, Web | anandsingh372@gmail.com |
 | CrusherS | Nishikant Singh | DataStructures, Algorithms & MachineLearning | singhnishikant0@gmail.com |
-| The_Team_Has_No_Name | Tejan Karmali | DataStructures, Algorithms & MachineLearning | tejank10@gmail.com |
+| The_Team_Has_No_Name | Tejan Karmali | DataStructures, Algorithms & MachineLearning | tejank10@gmail.com | [Link](https://github.com/tejank10)
 | CodePundits | Varan Shukla | Algorithms, Web, Blockchain, Cryptography | varanshukla@gmail.com |
 | TeamSpectre | Dipendra Bhatt | Algorithms, Web Dev, DataStructures | dipenbhatt03@gmail.com |
 | CodeReapers | Harshal Patel | DataStructures, Algorithms, Web | harshal4897@gmail.com |
