@@ -15,10 +15,11 @@
 
 ### How to get involved ?
 1. Cadets should directly contact captains and apply for getting into teams based on Captain's profile.
-2. Captains will choose cadets(`one from each junior year`) which they will take under their team.
-3. Done.
+2. While applying, mention the reason why you are opting out for certain team and what familiarities(If any) you have about the feild.
+3. Captains will choose cadets(`one from each junior year`) which they will take under their team.
+4. Done.
 
-> **Note:** Each Team will have only four members!
+> **Note:** Each Team will have only four members! Cadets can apply for multiple teams.
 
 ### Then What ?
 1. Captain will guide, help and be the mentor to its team members.
