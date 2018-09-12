@@ -37,10 +37,9 @@
 | CrusherS | Nishikant Singh | DataStructures, Algorithms & MachineLearning | singhnishikant0@gmail.com |
 | The_Team_Has_No_Name | Tejan Karmali | DataStructures, Algorithms & MachineLearning | tejank10@gmail.com | [Link](https://github.com/tejank10)
 | CodePundits | Varan Shukla | Algorithms, Web, Blockchain, Cryptography | varanshukla@gmail.com |
-
-| TeamPapa | Dipendra Bhatt | Algorithms, Web Dev, DataStructures | dipenbhatt03@gmail.com |
 | CodeReapers | Harshal Patel | DataStructures, Algorithms, Web | harshal4897@gmail.com |
 | TheWanderers | Hrushikesh Hanbar | Algorithms, Web Dev, Blockchain, DeepLearning | hrushikeshrohit@gmail.com| [Link](http://hrushikesh-hanbar.me/) |
+| TeamPapa | Dipendra Bhatt | Algorithms, Web Dev, DataStructures | dipenbhatt03@gmail.com |
 
 ### Core Members (Captains):
 1. Shoeb Patel a.k.a. `CaptainFreak` (President)
