@@ -11,14 +11,15 @@
 
 ------
 
-ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which aims on making newbies (**Cadets**) of campus aware about `fun, opportunities, challenges and realities` of Computer Science and its Sub-Streams. 
+**ProjectX** is the program run by Aficionados (Programming Society, NIT Goa) which aims on making newbies (**Cadets**) of campus aware about `fun, opportunities, challenges and realities` of Computer Science and its Sub-Streams. 
 
 ### How to get involved ?
-1. Cadets should apply for getting into teams based on Captains profile.
-2. Captains will choose cadets(`one from each junior year`) which they will take under their team.
-3. Done.
+1. Cadets should directly contact captains and apply for getting into teams based on Captain's profile.
+2. While applying, mention the reason why you are opting out for certain team and what familiarities(If any) you have about the feild.
+3. Captains will choose cadets(`one from each junior year`) which they will take under their team.
+4. Done.
 
-> **Note:** Each Team will have only four members!
+> **Note:** Each Team will have only four members! Cadets can apply for multiple teams.
 
 ### Then What ?
 1. Captain will guide, help and be the mentor to its team members.
@@ -34,9 +35,12 @@ ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which 
 | TeamCaptainFreak | Shoeb Patel | Security, Algorithms, Web, DeepLearning | patelshoeb4@gmail.com | [Link](https://shoebpatel.me/) |
 | TeamAndyS | Anand Singh | DataStructures, Algorithms, Web | anandsingh372@gmail.com |
 | CrusherS | Nishikant Singh | DataStructures, Algorithms & MachineLearning | singhnishikant0@gmail.com |
-| The_Team_Has_No_Name | Tejan Karmali | DataStructures, Algorithms & MachineLearning | tejank10@gmail.com |
+| The_Team_Has_No_Name | Tejan Karmali | DataStructures, Algorithms & MachineLearning | tejank10@gmail.com | [Link](https://github.com/tejank10)
 | CodePundits | Varan Shukla | Algorithms, Web, Blockchain, Cryptography | varanshukla@gmail.com |
+
 | TeamPapa | Dipendra Bhatt | Algorithms, Web Dev, DataStructures | dipenbhatt03@gmail.com |
+| CodeReapers | Harshal Patel | DataStructures, Algorithms, Web | harshal4897@gmail.com |
+| TheWanderers | Hrushikesh Hanbar | Algorithms, Web Dev, Blockchain, DeepLearning | hrushikeshrohit@gmail.com| [Link](http://hrushikesh-hanbar.me/) |
 
 ### Core Members (Captains):
 1. Shoeb Patel a.k.a. `CaptainFreak` (President)
