@@ -22,7 +22,7 @@ Geeks, First official challenge of ProjectX is going to be based on two most imp
 
 Example Challenge : [Link](https://github.com/CaptainFreak/GitAndGithubExample)
 
-> *Note*: Complete the learning phase and try to get the flag yourself first !
+## *Note*: Complete the learning phase and try to get the flag yourself first !
 
 Solution : [Link](https://gist.github.com/CaptainFreak/6d346dbef282347faf930526e3da525c)
 
