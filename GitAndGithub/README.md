@@ -1,11 +1,7 @@
-<center>
 # GitAndGithub 
 from TeamCaptainFreak
-</center>
-<center>
 ![](https://imgs.xkcd.com/comics/git.png)
 
-</center>
 Geeks, First official challenge of ProjectX is going to be based on two most important things of a developer's life, `Git` and `Github`. Succesful study and completion of this challenge will give members the context of practical software development and hands on collaboration-contribution to open sourced projects.
 
 *Challenge Date* : 28 Sept, 2018
