@@ -50,7 +50,57 @@
 6. Harshal Patel a.k.a. `emKiller`
 7. Dipendra Bhatt a.k.a. `dePapa`
 
+### Cadets:
+| `Team`| `Cadets`|
+|-|-|
+| TeamCaptainFreak | Nikita Chaudhary, Shashwat Shrivastav |
+| TeamAndys | Archit Garg, Jatin Kabra, PrakharG |
+| CrusherS | Prathyush P, Ravindra saini, Ashutosh Kabra |
+| The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Prathyusha P |
+| CodePundits | Jay Dhangar, Aparimeet, Aashay W |
+| CodeReapers | Prashant R, Punam C |
+| TeamPapa | Milind, Sangram, Ved prakash |
+
 ----
 <p align="center">
   Aficionados, NIT Goa
 </p>
+
+Anand 
+Archit G 2
+Jatin K 1
+Prakhar G 2 Gen CP
+
+Hanbar 
+Sohail 1
+Chanadana Hari
+Rahul p 2 - ML Algo
+
+Dipen 
+Milind 2
+Sangram P 2
+Ved prakash 2 - ML
+
+Crusher
+Prathyush P
+Ravindra sainin
+Ashutish Kabra 2 - ML
+
+Varan
+Jai Dhangar
+Aparimeet
+Aaashay W 2 Gen
+
+Harshal P
+Prashant R
+Punam C 2 - WebDev
+
+Tejan
+Jovian
+Gautam M
+Prathyusha
+
+Shoeb 
+Nikita
+Shrivastav
+
