@@ -54,11 +54,11 @@
 | `Team`| `Cadets`|
 |-|-|
 | TeamCaptainFreak | Nikita Chaudhary, Shashwat Shrivastav |
-| TeamAndys | Archit Garg, Jatin Kabra, PrakharG |
-| CrusherS | Prathyush P, Ravindra saini, Ashutosh Kabra |
+| TeamAndys | Archit, Jatin Kataria, Prakhar Gupta |
+| CrusherS | Pratiyush , Ravindar saini, Ashutosh Kabra |
 | The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Prathyusha P |
 | CodePundits | Jay Dhangar, Aparimeet, Aashay W |
-| CodeReapers | Prashant R, Punam C |
+| CodeReapers | Prashant R, Poonam Nahata |
 | TheWanderers | Sohail, Chanadana, Rahul |
 | TeamPapa | Milind, Sangram, Ved prakash |
 
