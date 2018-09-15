@@ -1,8 +1,6 @@
-# GitAndGithub 
+# GitAndGithub
 ![](https://imgs.xkcd.com/comics/git.png)
-<p align="center">
-from TeamCaptainFreak
- </p>
+
 Geeks, First official challenge of ProjectX is going to be based on two most important things of a developer's life, `Git` and `Github`. Succesful study and completion of this challenge will give members the context of practical software development and hands on collaboration-contribution to open sourced projects.
 
 *Challenge Date* : 28 Sept, 2018
@@ -32,4 +30,9 @@ Solution : [Link](https://gist.github.com/CaptainFreak/6d346dbef282347faf930526e
 
 Resources : 
 1. https://services.github.com/on-demand/resources/
+
+----------
+<p align="center">
+Challenge by TeamCaptainFreak
+ </p>
 
