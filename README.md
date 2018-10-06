@@ -53,7 +53,7 @@
 ### Cadets:
 | `Team`| `Cadets`|
 |-|-|
-| TeamCaptainFreak | Nikita Chaudhary, Saswat Srivastava |
+| TeamCaptainFreak | Nikita Chaudhary, Saswat Srivastava, Piyush |
 | TeamAndys | Archit, Jatin Kataria, Prakhar Gupta, Apurva Kanekar |
 | CrusherS | Ravindra saini, Ashutosh Kabra, Sireeja Uppal, Mark D'Souza |
 | The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Prathyusha P, Bhargav Kesa |
