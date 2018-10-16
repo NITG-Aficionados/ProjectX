@@ -15,7 +15,7 @@ ProjectX is the program run by Aficionados (Programming Society, NIT Goa) which 
 
 ### How to get involved ?
 1. Cadets should apply for getting into teams based on Captains profile.
-2. Captains will choose cadets(`one from each junior year`) which they will take under their team.
+2. Captains will choose cadets(`one or more from each junior year`) which they will take under their team.
 3. Done.
 
 > **Note:** Each Team will have only four members!
