@@ -6,7 +6,7 @@
 
 <p align="center">
   "If I have seen further it is by standing on the shoulders of Giants."
-  - Issac Newton
+  - <strong>Issac Newton</strong>
 </p>
 
 ------
@@ -14,10 +14,10 @@
 **ProjectX** is the program run by Aficionados (Programming Society, NIT Goa) which aims on making newbies (**Cadets**) of campus aware about `fun, opportunities, challenges and realities` of Computer Science and its Sub-Streams. 
 
 ### How to get involved ?
-1. Cadets should directly contact captains and apply for getting into teams based on Captain's profile.
-2. While applying, mention the reason why you are opting out for certain team and what familiarities(If any) you have about the feild.
-3. Captains will choose cadets(`one from each junior year`) which they will take under their team.
-4. Done.
+1. Cadets should apply for getting into teams based on Captains profile.
+2. Captains will choose cadets(`one or more from each junior year`) which they will take under their team.
+3. Done.
+
 
 > **Note:** Each Team will have only four members! Cadets can apply for multiple teams.
 
