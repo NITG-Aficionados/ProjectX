@@ -56,7 +56,7 @@
 | TeamCaptainFreak | Nikita Chaudhary, Saswat Srivastava, Piyush |
 | TeamAndys | Archit, Jatin Kumar, Prakhar Gupta, Apurva Kanekar |
 | CrusherS | Ravindra saini, Ashutosh Kabra, Sireeja Uppal, Mark D'Souza |
-| The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Prathyusha P, Bhargav Kesa |
+| The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Prathyusha P, Bhargav Kesa, Shashikant Kadam |
 | CodePundits | Jay Dhangar, Aparimeet, Aashay W, Akash Singh |
 | CodeReapers | Prashant Ramotra, Poonam Nahata, Deepak Kumar, Rohit Karthik |
 | TheWanderers | Sohail, Chanadana, Rahul, Pawan Gulati |
