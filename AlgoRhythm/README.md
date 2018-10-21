@@ -34,5 +34,5 @@ perfectly fine.
 
 ---------
 <p align="center">
-Challenge by TeamAndyS
+  Challenge by <strong>TeamAndyS</strong>
 </p>
