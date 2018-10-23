@@ -15,7 +15,6 @@ of the algorithmic principles and how to solve a given problem in the most optim
 7. Quick Sort
 8. Nim
 9. Bit Manipulation
-9. Binary Tree
 10. Kadane's Algorithm
 11. Sprague-Grundy Theorem
 12. Disjoint Set Union
