@@ -6,20 +6,21 @@ that are frequently used in Competitive Programming world. At the end of the cha
 of the algorithmic principles and how to solve a given problem in the most optimal timeframe.
 
 #### What you should learn :
-1. Binary Search 
-2. Segment Tree   
-3. Sprague-Grundy Theorem
-4. Nim
-5. Minimum Spanning Tree
-6. Line Sweep Technique
-7. BFS
-8. DFS
-9. Trie
-10. QuickSort
-11. Disjoint Set Union
-12. Heaps
-13. Articulation Points
-14. KMP algorithm
+1. Arrays
+2. Strings
+3. Stacks
+4. Queues
+5. Linked Lists
+6. Binary Search
+7. Quick Sort
+8. Nim
+9. Bit Manipulation
+9. Binary Tree
+10. Kadane's Algorithm
+11. Sprague-Grundy Theorem
+12. Disjoint Set Union
+13. Recursion
+14. Backtracking
 15. Misc (Any Random topic, can be one of the above, but need not necessarily) 
 
 #### Challenge Format :
