@@ -63,6 +63,21 @@
 | TeamPapa | Milind, Sangram patil, Ved prakash, Pooja Yadav |
 
 ----
+
+### LeaderBoard:
+| `Rank`| `Team`| `Points`|
+|-|-|-|
+| 1 | TeamAndys | 85 |
+| 2 | TheWanderers | 70 |
+| 3 | TeamPapa | 66 |
+| 4 | The_Team_Has_No_Name | 62 |
+| 5 | TeamCaptainFreak | _ |
+| 6 | CodePundits | 62 |
+| 7 | CodeReapers | 51 |
+| 8 | CrusherS | 40 |
+
+----
+
 <p align="center">
   Aficionados, NIT Goa
 </p>
