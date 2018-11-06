@@ -32,7 +32,74 @@ of the algorithmic principles and how to solve a given problem in the most optim
 <h5>Note:</h5> If you are able to solve the problems during challenge using any other technique apart from the ones that mentioned above, it's 
 perfectly fine.
 
----------
+---
+
+### Resources :
+
+1. Basics :
+* Arrays
+* Strings
+* Stacks
+* Queues
+* Linked Lists
+* [Binary-Search](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
+* Sort
+* Bit Manipulation
+* Disjoint Set union
+
+2. Questions and Resources : 
+* [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
+
+3. Game Theory :
+* Nim
+* Sprague-Grundy Theorem
+* First try this [**question**](https://www.hackerrank.com/challenges/game-of-stones-1/problem) without reading any theory.
+
+4. Theory :
+    * https://brilliant.org/wiki/sprague-grundy-theorem/
+    * https://www.youtube.com/watch?v=MboYbpE76js
+    * https://www.youtube.com/watch?v=AbJqhMm8htw
+    * https://www.geeksforgeeks.org/introduction-to-combinatorial-game-theory/          
+_(Do whole Set from geeks for geeks)_
+
+   * http://web.mit.edu/sp.268/www/nim.pdf
+
+5. Questions : 
+    * https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=game-theory
+
+6. Misc :
+    1. Kadane’s Algo:
+        * https://www.youtube.com/watch?v=86CQq3pKSUw&t=57s
+        * https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+        * https://www.hackerrank.com/challenges/maxsubarray/problem
+
+    2. Recursion & Backtracking
+       * https://www.geeksforgeeks.org/backtracking-introduction/
+_(Again Do whole set from geeksforgeeks)_
+       * https://www.hackerrank.com/interview/interview-preparation-kit/recursion-backtracking/challenges
+       * https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion
+
+7. Addition Misc :
+   1. Greedy and Dynamic Programming DP :
+      * https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/
+      * https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
+CP3
+
+    2. Questions :
+       * https://medium.com/@codingfreak/top-50-dynamic-programming-practice-problems-4208fed71aa3
+       * https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=dynamic-programming
+
+    3. Greedy :
+       * https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+       * https://www.geeksforgeeks.org/greedy-algorithms/
+Questions
+        * https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=greedy
+
+---
+---
+
+Learn and enjoy.
+
 <p align="center">
   Challenge by <strong>TeamAndyS</strong>
 </p>
