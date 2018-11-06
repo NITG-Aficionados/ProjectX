@@ -97,10 +97,9 @@ _(Do whole Set from geeks for geeks)_
        **Questions**:
         * [Practice Algorithms](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=greedy)
 
----
----
-
 Learn and enjoy.
+---
+---
 
 <p align="center">
   Challenge by <strong>TeamAndyS</strong>
