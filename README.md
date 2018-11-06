@@ -64,6 +64,14 @@
 
 ----
 
+### Challenges:
+| `Sr.`| `Challenge Name`| `Team`|`Date`| `Link`|
+|-|-|-|-|-|
+| 1 | Git And Github | TeamCaptainFreak | 28/10/2018 | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/GitAndGithub) |
+| 2 | AlgoRhythm | TeamAndyS | TBD | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/AlgoRhythm) |
+
+----
+
 ### LeaderBoard:
 | `Rank`| `Team`| `Points`|
 |-|-|-|
