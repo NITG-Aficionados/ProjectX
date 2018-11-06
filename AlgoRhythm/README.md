@@ -36,7 +36,7 @@ perfectly fine.
 
 ### Resources :
 
-1. Basics :
+1. **Basics** :
     * Arrays
     * Strings
     * Stacks
@@ -47,53 +47,55 @@ perfectly fine.
     * Bit Manipulation
     * Disjoint Set union
 
-2. Questions and Resources : 
+2. **Questions and Resources** : 
    * [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
 
-3. Game Theory :
+3. **Game Theory** :
     * Nim
     * Sprague-Grundy Theorem
     * First try this [**question**](https://www.hackerrank.com/challenges/game-of-stones-1/problem) without reading any theory.
 
-4. Theory :
-    * https://brilliant.org/wiki/sprague-grundy-theorem/
-    * https://www.youtube.com/watch?v=MboYbpE76js
-    * https://www.youtube.com/watch?v=AbJqhMm8htw
-    * https://www.geeksforgeeks.org/introduction-to-combinatorial-game-theory/          
+    **Theory** :
+    * [Sprague Grundy Theorem](https://brilliant.org/wiki/sprague-grundy-theorem/)
+    * [Grundy Numbers - Combinatorial Game Theory - I](https://www.youtube.com/watch?v=MboYbpE76js)
+    * [Sprague Grundy Theorem - Combinatorial Game Theory - II](https://www.youtube.com/watch?v=AbJqhMm8htw)
+    * [Combinatorial Game Theory | Set 1 (Introduction)](https://www.geeksforgeeks.org/introduction-to-combinatorial-game-theory/)          
 _(Do whole Set from geeks for geeks)_
 
-   * http://web.mit.edu/sp.268/www/nim.pdf
+   * [Theory of Impartial Games](http://web.mit.edu/sp.268/www/nim.pdf)
 
-5. Questions : 
-    * https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=game-theory
+   **Questions** : 
+    * [Practice Algorithms](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=game-theory)
 
-6. Misc :
+4. **Misc** :
     1. Kadane’s Algo:
-        * https://www.youtube.com/watch?v=86CQq3pKSUw&t=57s
-        * https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
-        * https://www.hackerrank.com/challenges/maxsubarray/problem
+        * [Kadane's Algorithm to Maximum Sum Subarray Problem](https://www.youtube.com/watch?v=86CQq3pKSUw&t=57s)
+        * [Largest Sum Contiguous Subarray](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+        * [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray/problem)
 
     2. Recursion & Backtracking
-       * https://www.geeksforgeeks.org/backtracking-introduction/
-_(Again Do whole set from geeksforgeeks)_
-       * https://www.hackerrank.com/interview/interview-preparation-kit/recursion-backtracking/challenges
-       * https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion
+       * [Backtracking | Introduction](https://www.geeksforgeeks.org/backtracking-introduction/)
+       _(Again Do whole set from geeksforgeeks)_
+       * [Recursion and Backtracking](https://www.hackerrank.com/interview/interview-preparation-kit/recursion-backtracking/challenges)
+       * [Practice Algorithms](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion)
 
-7. Addition Misc :
+5. **Addition Misc** :
    1. Greedy and Dynamic Programming DP :
-      * https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/
-      * https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
-CP3
+      * [Introduction (Beginner)](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+      * [Introduction to Dynamic Programming 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)  CP3 
 
-    2. Questions :
-       * https://medium.com/@codingfreak/top-50-dynamic-programming-practice-problems-4208fed71aa3
-       * https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=dynamic-programming
 
-    3. Greedy :
-       * https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
-       * https://www.geeksforgeeks.org/greedy-algorithms/
-Questions
-        * https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=greedy
+       **Questions** :
+
+       * [Top 50 Dynamic Programming Practice Problems](https://medium.com/@codingfreak/top-50-dynamic-programming-practice-problems-4208fed71aa3)
+       * [Practice Algorithms](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=dynamic-programming)
+
+    2. Greedy :
+       * [Basics of Greedy Algorithms](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+       * [Greedy Algorithms](https://www.geeksforgeeks.org/greedy-algorithms/)
+
+       **Questions**:
+        * [Practice Algorithms](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=greedy)
 
 ---
 ---
