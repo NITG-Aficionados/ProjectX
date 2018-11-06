@@ -37,23 +37,23 @@ perfectly fine.
 ### Resources :
 
 1. Basics :
-* Arrays
-* Strings
-* Stacks
-* Queues
-* Linked Lists
-* [Binary-Search](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
-* Sort
-* Bit Manipulation
-* Disjoint Set union
+    * Arrays
+    * Strings
+    * Stacks
+    * Queues
+    * Linked Lists
+    * [Binary-Search](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
+    * Sort
+    * Bit Manipulation
+    * Disjoint Set union
 
 2. Questions and Resources : 
-* [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
+   * [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
 
 3. Game Theory :
-* Nim
-* Sprague-Grundy Theorem
-* First try this [**question**](https://www.hackerrank.com/challenges/game-of-stones-1/problem) without reading any theory.
+    * Nim
+    * Sprague-Grundy Theorem
+    * First try this [**question**](https://www.hackerrank.com/challenges/game-of-stones-1/problem) without reading any theory.
 
 4. Theory :
     * https://brilliant.org/wiki/sprague-grundy-theorem/
