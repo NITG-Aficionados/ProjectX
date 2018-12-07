@@ -68,5 +68,5 @@ _(Do whole Set from geeks for geeks)_
 ---
 
 <p align="center">
-  Challenge by <strong>TeamAndyS</strong>
+  Resources compiled by <strong>CaptainFreak</strong>
 </p>
