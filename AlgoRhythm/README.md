@@ -23,11 +23,11 @@ of the algorithmic principles and how to solve a given problem in the most optim
 15. Misc (Any Random topic, can be one of the above, but need not necessarily) 
 
 #### Challenge Format :
-1. You will be given 15 questions corresponding to the above 15 topics.
-2. Questions will be of **medium** difficulty.
-3. You have to use your algorithmic skills and knowledge to solve the problem.
-4. Each problem will have equal weightage (20).
-5. Team with maximum score(out of 300) will be the winner.
+1. You will be given 10 questions corresponding to any 10 of the above 15 topics.
+2. Questions will be of **medium** or **easy** difficulty level.
+3. You will have to use your algorithmic skills and knowledge to solve the problem.
+4. Each problem will have different weightage depending on its difficulty.
+5. Team with maximum score will be the winner.
 
 <h5>Note:</h5> If you are able to solve the problems during challenge using any other technique apart from the ones that mentioned above, it's 
 perfectly fine.
