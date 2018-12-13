@@ -53,16 +53,39 @@
 ### Cadets:
 | `Team`| `Cadets`|
 |-|-|
-| TeamCaptainFreak | Nikita Chaudhary, Saswat Srivastava, Piyush |
+| TeamCaptainFreak | Nikita Chaudhary, Prathyusha P, Saswat Srivastava, Piyush |
 | TeamAndys | Archit, Jatin Kumar, Prakhar Gupta, Apurva Kanekar |
 | CrusherS | Ravindra saini, Ashutosh Kabra, Sireeja Uppal, Mark D'Souza |
-| The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Prathyusha P, Bhargav Kesa |
+| The_Team_Has_No_Name | Gautam Mishra, Jovian Dsouza, Bhargav Kesa, Shashikant |
 | CodePundits | Jay Dhangar, Aparimeet, Aashay W, Akash Singh |
 | CodeReapers | Prashant Ramotra, Poonam Nahata, Deepak Kumar, Rohit Karthik |
 | TheWanderers | Sohail, Chanadana, Rahul, Pawan Gulati |
 | TeamPapa | Milind, Sangram patil, Ved prakash, Pooja Yadav |
 
 ----
+
+### Challenges:
+| `Sr.`| `Challenge Name`| `Team`|`Date`| `Link`|
+|-|-|-|-|-|
+| 1 | Git And Github | TeamCaptainFreak | 28/10/2018 | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/GitAndGithub) |
+| 2 | AlgoRhythm | TeamAndyS | TBD | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/AlgoRhythm) |
+
+----
+
+### LeaderBoard:
+| `Rank`| `Team`| `Points`|
+|-|-|-|
+| 1 | TeamAndys | 85 |
+| 2 | TheWanderers | 70 |
+| 3 | TeamPapa | 66 |
+| 4 | The_Team_Has_No_Name | 62 |
+| 5 | TeamCaptainFreak | _ |
+| 6 | CodePundits | 62 |
+| 7 | CodeReapers | 51 |
+| 8 | CrusherS | 40 |
+
+----
+
 <p align="center">
   Aficionados, NIT Goa
 </p>
