@@ -68,7 +68,7 @@
 | `Sr.`| `Challenge Name`| `Team`|`Date`| `Link`|
 |-|-|-|-|-|
 | 1 | Git And Github | TeamCaptainFreak | 28/10/2018 | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/GitAndGithub) |
-| 2 | AlgoRhythm | TeamAndyS | TBD | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/AlgoRhythm) |
+| 2 | AlgoRhythm | TeamAndyS | 11/12/2018 | [Link](https://github.com/NITG-Aficionados/ProjectX/tree/master/AlgoRhythm) |
 
 ----
 
@@ -76,13 +76,13 @@
 | `Rank`| `Team`| `Points`|
 |-|-|-|
 | 1 | TeamAndys | 85 |
-| 2 | TheWanderers | 70 |
-| 3 | TeamPapa | 66 |
-| 4 | The_Team_Has_No_Name | 62 |
-| 5 | TeamCaptainFreak | _ |
-| 6 | CodePundits | 62 |
-| 7 | CodeReapers | 51 |
-| 8 | CrusherS | 40 |
+| 2 | The_Team_Has_No_Name | 155 |
+| 3 | TeamCaptainFreak | 86 |
+| 4 | TeamPapa | 148 |
+| 5 | TheWanderers | 97 |
+| 6 | CodeReapers | 77 |
+| 7 | CrusherS | 75 |
+| 8 | CodePundits | 74 |
 
 ----
 
