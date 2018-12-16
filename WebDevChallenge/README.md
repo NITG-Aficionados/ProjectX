@@ -15,7 +15,7 @@ You are free to use any frameworks/libraries but you have to use git for code ma
 will see how you developed your code and whether you <strong>plagiarized</strong> it or not. You are also expected to host your project on any of the free 
 hosting platform like heroku. Your web app must have the below mentioned features for you to complete this challenge. 
 
-#### The basic features you must include to complete this challenge :
+#### The basic features your app must have to complete this challenge :
 1. User Profiles (SignUp/Login)
 2. Feed
 3. Posts ( with Likes/comments )
