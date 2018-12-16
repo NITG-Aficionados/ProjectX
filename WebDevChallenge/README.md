@@ -22,7 +22,7 @@ hosting platform like heroku. Your web app must have the below mentioned feature
 4. Chats
 5. Your web app must be RESTful
 
-> *For earning bonus points* : You are free to add as many features as you like. You can take clues from existing ones and add them to your own, or even better think of <strong>something new</strong>. 
+> *For earning bonus points* : You are free to add as many features as you like. You can take clues from existing social networks and add them to your own, or even better think of <strong>something new</strong>. 
 Extra features will fetch you bonus points. You are free to ask for help regarding certain technologies to any of the captains. 
 I suggest all the captains to update the Resources.md for this challenge with technologies 
 they are comfortable in, so that all teams can get what they want.
