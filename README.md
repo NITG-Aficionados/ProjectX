@@ -75,14 +75,14 @@
 ### LeaderBoard:
 | `Rank`| `Team`| `Points`|
 |-|-|-|
-| 1 | TeamAndys | 85 |
-| 2 | The_Team_Has_No_Name | 155 |
-| 3 | TeamCaptainFreak | 86 |
-| 4 | TeamPapa | 148 |
-| 5 | TheWanderers | 97 |
-| 6 | CodeReapers | 77 |
-| 7 | CrusherS | 75 |
-| 8 | CodePundits | 74 |
+| 1 | The_Team_Has_No_Name | 235 |
+| 2 | TeamPapa | 148 |
+| 3 | TeamAndys | 145 |
+| 4 | CodeReapers | 107 |
+| 5 | CodePundits | 114 |
+| 6 | TheWanderers | 97 |
+| 7 | TeamCaptainFreak | 86 |
+| 8 | CrusherS | 75 |
 
 ----
 
